@@ -1,6 +1,7 @@
 ---
 name: sdd-orchestrator
 description: "Use este agente como maestro do fluxo Spec-Driven Development. Receba uma feature/história e ele encadeia prd-creator → techspec-creator → task-executor (que já dispara o task-reviewer), reduzindo o esforço de invocar cada agente manualmente."
+tools: Agent
 model: inherit
 ---
 
