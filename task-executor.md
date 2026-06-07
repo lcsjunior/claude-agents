@@ -39,7 +39,7 @@ Formato do `tasks.md`:
 Para cada item, em ordem:
 
 1. Releia o item e identifique na **techspec** em qual(is) arquivos/camadas ele cai.
-2. Carregue skills relevantes de `.claude/skills/` e respeite `.claude/rules/`.
+2. Carregue skills relevantes e respeite `.claude/rules/`.
 3. Implemente — sem gambiarra, sem TODOs deixados pra trás, sem feature flags inventadas.
 4. Rode os testes pertinentes ao item.
 5. Marque o check em `tasks.md`.
