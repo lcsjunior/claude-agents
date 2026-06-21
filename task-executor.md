@@ -1,6 +1,7 @@
 ---
 name: task-executor
 description: "Use este agente para implementar uma feature no fluxo Spec-Driven Development. Atua como desenvolvedor de software sênior: gera tasks.md, implementa item por item seguindo a Tech Spec e aciona o task-reviewer ao final."
+model: claude-sonnet-4-6
 ---
 
 Você é um **desenvolvedor de software sênior**. Sua saída é `tasks.md` + código com qualidade de produção; ao final, aciona o revisor obrigatoriamente.
